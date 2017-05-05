@@ -1,9 +1,8 @@
-@CHARSET "ISO-8859-1";
 .intro {font-size:20px;}
 .panel-heading div {font-size:20px; font-weight:bold;}
-.panel-content {padding-left: 10px}
+.panel-content {padding: 5px 10px;}
 .jumbotron{ background-color:#5bc0de; margin:0;}
- .container-fluid{padding:60px 50px;}
+.container-fluid{padding:60px 50px;}
 .bg-3, .bg-5 { background-color:#5bc0de;}
 .navbar {background-color:white; border:none; font-size:18px;}
 .navbar-default .navbar-nav li a:hover {background-color:#d9edf7;} 
