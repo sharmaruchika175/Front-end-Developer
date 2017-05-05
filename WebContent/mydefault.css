@@ -1,0 +1,13 @@
+@CHARSET "ISO-8859-1";
+.intro {font-size:20px;}
+.panel-heading div {font-size:20px; font-weight:bold;}
+.panel-content {padding-left: 10px}
+.jumbotron{ background-color:#5bc0de; margin:0;}
+ .container-fluid{padding:60px 50px;}
+.bg-3, .bg-5 { background-color:#5bc0de;}
+.navbar {background-color:white; border:none; font-size:18px;}
+.navbar-default .navbar-nav li a:hover {background-color:#d9edf7;} 
+.navbar-default .navbar-nav li.active a {background-color:#5bc0de;}
+p.icon {padding:15px 10px 10px 25px; font-size:30px;}
+.links {margin-top: 40px;}
+.panel-content-details{margin-top:10px;}
